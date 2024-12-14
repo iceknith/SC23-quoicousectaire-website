@@ -9,6 +9,8 @@ Interview de Mello
 Interview audio
 ~~~~~~~~~~~~~~~
 
+.. image:: resources/test.png
+
 .. raw:: html
 
    <audio controls="controls">
