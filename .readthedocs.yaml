@@ -5,8 +5,7 @@ build:
   tools:
     python: "3.10"
   commands:
-    - cd $READTHEDOCS_OUTPUT
-    - mkdir  _build
+    - mkdir  $READTHEDOCS_OUTPUT_build
     - cd ./_build
     - mkdir html
     - cd ./html
