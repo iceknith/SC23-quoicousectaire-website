@@ -9,7 +9,12 @@ Interview de Mello
 Interview audio
 ~~~~~~~~~~~~~~~
 
-[imbedded du .wav, qu'on peut écouter]
+.. raw:: html
+
+   <audio controls="controls">
+         <source src="resources/interview-Melo.mp3" type="audio/mp3">
+         Your browser does not support the <code>audio</code> element.
+   </audio>
 
 Transcription
 ~~~~~~~~~~~~~~~
