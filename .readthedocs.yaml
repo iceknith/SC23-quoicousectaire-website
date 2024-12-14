@@ -5,8 +5,11 @@ build:
   tools:
     python: "3.10"
   commands:
+    - cd docs/ && npm install
+    - cd docs/ && npm run build
     - mkdir -p $READTHEDOCS_OUTPUT/html/_static
     - cp docs/resources/interview_Melo.mp3 $READTHEDOCS_OUTPUT/html/_static/interview_Melo.mp3
+    - cp --recursive docs/build/* $READTHEDOCS_OUTPUT/html/
 
 python:
   install:
