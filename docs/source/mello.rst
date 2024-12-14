@@ -12,9 +12,11 @@ Interview audio
 .. raw:: html
 
    <audio controls="controls">
-         <source src="_static/interview-Melo.mp3" type="audio/mp3">
+         <source src="/_static/interview_Melo.mp3">
          Your browser does not support the <code>audio</code> element.
    </audio>
+   <a href="/_static/interview_Melo.mp3">
+   <a href="_static/interview_Melo.mp3">
 
 Transcription
 ~~~~~~~~~~~~~~~
