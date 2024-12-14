@@ -9,12 +9,12 @@ Interview de Mello
 Interview audio
 ~~~~~~~~~~~~~~~
 
-.. image:: resources/test.png
+.. image:: ../resources/test.png
 
 .. raw:: html
 
    <audio controls="controls">
-         <source src="resources/interview-Melo.mp3" type="audio/mp3">
+         <source src="../resources/interview-Melo.mp3" type="audio/mp3">
          Your browser does not support the <code>audio</code> element.
    </audio>
 
