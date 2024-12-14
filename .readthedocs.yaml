@@ -5,8 +5,8 @@ build:
   tools:
     python: "3.10"
   commands:
-    - mkdir -p $READTHEDOCS_OUTPUT/build/html
-    - cp docs/resources/interview_Melo.mp3 $READTHEDOCS_OUTPUT/build/html/interview_Melo.mp3
+    - mkdir -p $READTHEDOCS_OUTPUT/html/_static
+    - cp docs/resources/interview_Melo.mp3 $READTHEDOCS_OUTPUT/html/_static/interview_Melo.mp3
 
 python:
   install:
