@@ -15,7 +15,6 @@ Interview audio
          <source src="_static/interview_Melo.mp3">
          Your browser does not support the <code>audio</code> element.
    </audio>
-   <a href="_static/interview_Melo.mp3"> Télécharger l'audio </a>
 
 Transcription
 ~~~~~~~~~~~~~~~
