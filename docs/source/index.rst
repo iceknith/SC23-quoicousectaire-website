@@ -1,4 +1,4 @@
-Beinvenu sur notre Blog de SC23 - La place d'internet dans les sectes
+Bienvenu sur notre Blog de SC23 - La place d'internet dans les sectes
 ===================================
 
 Lorem Ipsum
@@ -11,6 +11,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
    Acceuil <self>
    Introduction <intro>
