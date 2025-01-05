@@ -16,7 +16,7 @@ Interview audio
          Your browser does not support the <code>audio</code> element.
    </audio>
 
-Introduction:
+Introduction
 ~~~~~~~~~~~~~~~
 
 [J] : The bot is not recording.
@@ -297,7 +297,7 @@ claimed, and, um, “I messaged the owner of the server because I can't talk to 
 [M] : If, okay, if somebody is in a situation that they think is similar to what happened to me and they are still actively in it I would just suggest to like question everything you're taught maybe talk to people outside of that group if you can and be like “hey uh is this insane?”. Um I understand that hearing conflicting information that isn't like that that doesn't align with what you're being taught is going to make you instantly not want to listen to that person but just have an open mind and listen to every perspective not just the perspective of the people in your group um whether it be a group like like just
 a discord server or a group that's a bit bigger like a whole religion, just be willing to listen to outside perspectives even if you don't think that your group is necessarily a cult there still might be manipulative things happening in that group and if you if you care about yourself and the other people there you should look into it.
 
-Outro
+Outroduction
 ~~~~~~~~~~~~~~~
 
 [J] : yeah that that makes a lot of sense thank you so much um that's it sorry
