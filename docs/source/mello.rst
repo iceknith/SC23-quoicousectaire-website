@@ -33,7 +33,7 @@ Introduction
 
 [J] :  Do you want to introduce yourself? You can use whatever name, it’s okay.
 
-M : Hi. I'm Mello. Mello. I like... I don't know what to say. Hi. I'm Mello. I got got by more than one cult at this point in time. We are going to be talking about only one. But I would like it to be known for the record that I have been gotten in two.
+[M] : Hi. I'm Mello. Mello. I like... I don't know what to say. Hi. I'm Mello. I got got by more than one cult at this point in time. We are going to be talking about only one. But I would like it to be known for the record that I have been gotten in two.
 
 [J] : Awesome. Okay.
 
@@ -79,7 +79,7 @@ M : Hi. I'm Mello. Mello. I like... I don't know what to say. Hi. I'm Mello. I g
 
 [J] : I do, but I'm going to assume that my teacher doesn't.
 
-M : Okay. So a paraphilia is, Uhm… a sexual desire, I guess. Or like... I guess it's really like a malfunction in your brain, if I'm being honest. Uhm… But it can also cause you to be a necrophile or a zoophile or a pedophile. Uhm… Its, it's like a neurological thing. I guess. Or I don't know if it's actually neurological, but you know what I mean. It was centered around the idea that having, having those kind of illegal kinks were some kind of enlightenment. Uhm… Some sort of like... If you are into these things, you are the best of the best of my followers, was kind of the belief system. And we believed that Uhm… the main guy was some kind of deity or god Uhm, around sexual pleasure, was the concept. Uhm, It's important to mention that the person was in their late 20s and we were all under the age of 18. Uhm… And a lot of us did not have those paraphilias and we lied and said we did or developed them. Because of him.
+[M] : Okay. So a paraphilia is, Uhm… a sexual desire, I guess. Or like... I guess it's really like a malfunction in your brain, if I'm being honest. Uhm… But it can also cause you to be a necrophile or a zoophile or a pedophile. Uhm… Its, it's like a neurological thing. I guess. Or I don't know if it's actually neurological, but you know what I mean. It was centered around the idea that having, having those kind of illegal kinks were some kind of enlightenment. Uhm… Some sort of like... If you are into these things, you are the best of the best of my followers, was kind of the belief system. And we believed that Uhm… the main guy was some kind of deity or god Uhm, around sexual pleasure, was the concept. Uhm, It's important to mention that the person was in their late 20s and we were all under the age of 18. Uhm… And a lot of us did not have those paraphilias and we lied and said we did or developed them. Because of him.
 
 [J] : Yes.
 
@@ -126,7 +126,7 @@ M : Okay. So a paraphilia is, Uhm… a sexual desire, I guess. Or like... I gues
 
 [J] : If that's something you want to skip, we can just skip it.
 
-M : Sorry. No, I'm trying to articulate. Well, first off... I have to have a lot of very uncomfortable conversations with police because we're getting police involved about the guy that was kind of running the group. Not the person that owned the server. That's a very important distinction. The person that owned the server was only 13. Like, they did not know what was happening.
+[M] : Sorry. No, I'm trying to articulate. Well, first off... I have to have a lot of very uncomfortable conversations with police because we're getting police involved about the guy that was kind of running the group. Not the person that owned the server. That's a very important distinction. The person that owned the server was only 13. Like, they did not know what was happening.
 
 [J] : Yeah.
 
@@ -134,7 +134,7 @@ M : Sorry. No, I'm trying to articulate. Well, first off... I have to have a lot
 
 [J] : Mm-hmm.
 
-M : Checked in with everyone to make sure they were still, like, with it. You know? But... Yeah, that... Yeah. But I guess that's kind of the con... There's not a whole lot of, like... It's not a whole lot of, like, oh, I'm, like, getting in trouble because of it. It's just uncomfortable conversations I have to have with, like, police and stuff.
+[M] : Checked in with everyone to make sure they were still, like, with it. You know? But... Yeah, that... Yeah. But I guess that's kind of the con... There's not a whole lot of, like... It's not a whole lot of, like, oh, I'm, like, getting in trouble because of it. It's just uncomfortable conversations I have to have with, like, police and stuff.
 
 [J] : Yeah. Because they have to get involved and that means a lot of testimonies and all that, I suppose.
 
