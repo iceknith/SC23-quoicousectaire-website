@@ -151,8 +151,7 @@ Introduction
 
 [J] :  Mm-hmm.
 
-[M] : Despite being an adult. Like, anybody… Even people my age, because they're adults, I'm really nervous to talk to them when it comes to, like, online spaces. It, like, really scares me. and I think that's a really bad effect it's had on my social behavior.
- Physical condition... There was kind of, like… I don't know. I mean, I wouldn't say it was, like, a ritual, but it was kind of a thing to carve the gods' initials onto our bodies in places that were easy to hide from our parents to, like, quote-unquote, show devotion or whatever. I think you just, like, jerked off through it, but, you know. It was, like, a whole thing.
+[M] : Despite being an adult. Like, anybody… Even people my age, because they're adults, I'm really nervous to talk to them when it comes to, like, online spaces. It, like, really scares me. and I think that's a really bad effect it's had on my social behavior. Physical condition... There was kind of, like… I don't know. I mean, I wouldn't say it was, like, a ritual, but it was kind of a thing to carve the gods' initials onto our bodies in places that were easy to hide from our parents to, like, quote-unquote, show devotion or whatever. I think you just, like, jerked off through it, but, you know. It was, like, a whole thing.
 
 [J] : Mm-hmm.
 
@@ -230,7 +229,7 @@ Introduction
 
 [J] : Yeah.
 
-M: Um, people talked to me a lot because he decided that I was, like, some kind of goddess. Um, which definitely fucked with my head really bad. But it also meant that a lot of people, like, responded to everything I said, so it really felt like I had friends. Um, and the, the quote-unquote manager that I've mentioned, um.
+[M] : Um, people talked to me a lot because he decided that I was, like, some kind of goddess. Um, which definitely fucked with my head really bad. But it also meant that a lot of people, like, responded to everything I said, so it really felt like I had friends. Um, and the, the quote-unquote manager that I've mentioned, um.
 
 [J]  : Yeah?
 
