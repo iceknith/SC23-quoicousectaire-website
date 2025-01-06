@@ -1,12 +1,6 @@
 Bienvenu sur notre Blog de SC23 - La place d'internet dans les sectes
 ===================================
 
-Lorem Ipsum
-
-.. note::
-
-   Ce projet est en plein développement !
-
 Contents
 --------
 
