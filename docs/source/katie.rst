@@ -98,7 +98,17 @@ There are websites and groups you can find for resources, too. Reach out. Whethe
 Analyse Conversationelle
 ------------------------
 
-lorem ipsum
+On peut premièrement remarquer que le médium employé (la messagerie instantanée) va favoriser une certaine oralité du texte.
+En effet, l’aspect instantané de la messagerie, ainsi que la présence d’emojis et d’un jargon spécifique à ce type de messagerie favorise un texte “parlé” beaucoup plus proche de ce que l’on dirait à l’oral. Et celà ne manque pas dans le texte de Katie, à de nombreux moments, on l’entend nous parler, et on peut remarquer que de nombreux passages sont écrits d’une façon très orale.
+Donc malgré le fait que cet entretien ait été fait par texte, il est quand même pertinent de faire une analyse conversationnelle avec, car même sans l’audio, et la vidéo, nous avons un échange très proche de la conversation orale.
+
+Il est premièrement important de noter que, Katie a de nombreux biais envers l’histoire qu’elle nous livre, car elle y a non seulement joué un rôle, mais également car elle a été abusée. Elle a donc de nombreux biais, et va forcément faire beaucoup de jugements de valeurs selon son expérience personnelle. Par exemple, elle va être plus prompt à juger les us et coutumes du groupe dans lequel elle était, car ils lui ont causé du tort.
+
+Malgré ses biais, on peut remarquer dans son texte une réelle volonté d’objectivité, elle va essayer le plus possible de donner une version qui collerait à la réalité, et qui essaye de donner le plus possible de nous donner différents points de vue, et différents raisonnements. Par exemple, elle nous explique le raisonnement et les bénéfices de la règle sur les vêtements, les interdisant de porter des vêtements ostentatoires.
+
+Finalement, on peut remarquer que le récit raconté suit le trope du récit initiatique. Ce type de récit est très présent dans les histoires de tout temps. On lit l’histoire d’un héros ignorant des règles et des pièges du monde dans lequel il évolue, qui va apprendre au fur et à mesure du temps comment évoluer dans ce monde, et nous avec lui. Il va souvent faire fausse route, tomber dans des pièges qui vont lui faire prendre un détour.
+Et c’est comme ça que l’histoire de Katie nous est racontée. Elle était ignorante, dans un monde qu’elle ne comprenait pas complètement. Elle a fait “fausse route” en allant dans ce groupe de haute surveillance, mais au bout de la route, elle est retournée sur le chemin, en ayant grandi de cette expérience, même si elle en subit un peu les conséquences.
+
 
 
 .. _analyse_de_fond_katie:
