@@ -19,7 +19,7 @@ Interview audio
 Introduction
 ~~~~~~~~~~~~~~~
 
-[J] : The bot is not recording.
+[J] : The bot is now recording.
 
 [M] : That voice is metal as fuck.
 
