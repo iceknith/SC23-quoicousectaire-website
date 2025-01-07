@@ -391,10 +391,11 @@ Après les questions servant à établir le contexte et les présentations de no
 Le culte est basé sur un renversement des normes sociales en matière de fantasmes sexuels. Il est vu comme positif d’être paraphile. On peut noter que dans la genèse même, il y a une rupture avec les conventions sociales. Dans cette situation, le gourou a alors un ascendant sur les autres. Il peut influencer les conversations. Le contexte de ses dernières favorise sa position car il est celui qui est à l’origine de la création du désir anormal
 chez la plupart des membres.
 
-.. code-block::
-    [M] And a lot of us did not have those paraphilias and we lied and said we did or developed them.
-    [J] Because of him.
-    [M] Yes.
+"
+    |[M] And a lot of us did not have those paraphilias and we lied and said we did or developed them.
+    |[J] Because of him.
+    |[M] Yes.
+|"
 
 Cette position lui permet de fragiliser les arguments des gens afin de s’affirmer comme : “une sorte de dieu autour des plaisirs sexuels” comme le décrit Mello
 
