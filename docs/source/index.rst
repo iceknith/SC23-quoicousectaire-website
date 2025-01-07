@@ -1,4 +1,4 @@
-Bienvenu sur notre Blog de SC23 - La place d'internet dans les sectes
+Bienvenue sur notre Blog de SC23 - La place d'internet dans les sectes
 ===================================
 
 Contents
@@ -7,7 +7,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   Acceuil <self>
+   Accueil <self>
    Introduction <intro>
    Entrer dans un secte en ligne <mello>
    Sortir d'une secte grâce à Internet <katie>
