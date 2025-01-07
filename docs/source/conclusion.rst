@@ -1,17 +1,5 @@
 Conclusion
 ===================
 
-.. _synthese:
-
-Synthèse
-------------------------
-
-Lorem Ipsum
-
-
-.. _ouverture:
-
-Ouverture
-------------------------
-
-Lorem Ipsum
+En guise de conclusion, il est intéressant de voir qu’internet n’a pas un impact positif ou négatif sur les sectes. C’est juste un outil qui amplifie les comportements qu’on retrouve déjà dans la vie réelle. D’un côté, internet peut regrouper un ensemble de personnes vulnérables qui peuvent devenir en proie à des dérives sectaires. Ces personnes fragilisées n’ont en plus pas le même degré de conscience de la gravité de ce qui se passe en raison de l’éloignement causé par l’écran. Mello nous le disait, iel n’aurait jamais été dans une telle situation si ce n’était pas sur internet. D’un autre, internet est une bibliothèque énorme de ressources pour se prémunir des côtés négatifs de cet outil. C’était le cas de Katie.
+En d’autres termes, internet démultiplie nos relations sociales, les connexions peuvent être bien plus lointaines et toujours instantanées. Dans ce lot, il existe malheureusement des relations mauvaises, pouvant entrainer dans des cas très extrêmes à l’intégration d’un groupe de haut contrôle ou bien un groupe à dérive sectaire. D’un autre côté, on peut y trouver des gens bienveillants nous permettant de nous extraire d’un mauvais environnement. Notre sécurité passe donc par notre éducation face au danger.
