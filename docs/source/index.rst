@@ -14,4 +14,4 @@ Contents
    Exemples d'autres sectes <autres_sectes>
    Synthèse et conclusion <conclusion>
 
-Pour démarrer la lecture, cliques sur le bouton `Suivant` en bas à droite de cette page !
+Pour démarrer la lecture, cliquez sur le bouton `Suivant` en bas à droite de cette page !
