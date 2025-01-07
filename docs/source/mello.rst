@@ -392,10 +392,12 @@ Le culte est basé sur un renversement des normes sociales en matière de fantas
 chez la plupart des membres.
 
 "
-    |[M] And a lot of us did not have those paraphilias and we lied and said we did or developed them.
-    |[J] Because of him.
-    |[M] Yes.
-|"
+    [M] And a lot of us did not have those paraphilias and we lied and said we did or developed them.
+
+    [J] Because of him.
+
+    [M] Yes.
+"
 
 Cette position lui permet de fragiliser les arguments des gens afin de s’affirmer comme : “une sorte de dieu autour des plaisirs sexuels” comme le décrit Mello
 
