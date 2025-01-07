@@ -388,9 +388,8 @@ Analyse de Fond
 
 Après les questions servant à établir le contexte et les présentations de notre interview nous avons commencé à discuter de la secte en demandant quel était le système de croyance et comment celui s'articulait autour du gourou i.e “the one guy”.
 
-Le culte est basé sur un renversement des normes sociales en matière de fantasmes sexuels. Il est vu comme positif d’être paraphile. On peut noter que dans la genèse même, il y a une rupture avec les conventions sociales. Dans cette situation, le gourou a alors un ascendant sur les autres. Il peut influencer les conversations. Le contexte de ses dernières favorise sa position car il est celui qui est à l’origine de la création du désir anormal chez la plupart des membres.
-
-::
+Le culte est basé sur un renversement des normes sociales en matière de fantasmes sexuels. Il est vu comme positif d’être paraphile. On peut noter que dans la genèse même, il y a une rupture avec les conventions sociales. Dans cette situation, le gourou a alors un ascendant sur les autres. Il peut influencer les conversations. Le contexte de ses dernières favorise sa position car il est celui qui est à l’origine de la création du désir anormal
+chez la plupart des membres. ::
     [M] And a lot of us did not have those paraphilias and we lied and said we did or developed them.
     [J] Because of him.
     [M] Yes.
